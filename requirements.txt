@@ -4,12 +4,12 @@ notebook
 numpy
 scikit-learn
 matplotlib
-python-box==6.0.2;
+python-box==6.0.2
 pyYAML
 tqdm;
-ensure==1.0.2;
+ensure==1.0.2
 joblib
-types-pyYAML;
+types-pyYAML
 Flask
 Flask-Cors;
 -e .
